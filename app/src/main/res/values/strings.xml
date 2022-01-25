@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">FootballQuiz</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="txt_quiz_football">Football Quiz</string>
+    <string-array name="football">
+        <item>faible</item>
+        <item>moyenne</item>
+        <item>fort</item>
+    </string-array>
+
+
+</resources>
